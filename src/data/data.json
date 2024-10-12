@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Organiza tu día y maximiza tu productividad",
+    "description": [
+      "Administre tareas, siga hábitos y alcance sus objetivos más rápido con nuestra aplicación todo en uno de productividad.",
+      "Manténgase organizado con notificaciones inteligentes y seguimiento del progreso en tiempo real."
+    ]
+  },
+  "benefits": [
+    {
+      "id": "1",
+      "title": "Organiza tu día fácilmente",
+      "description": "Planifica y prioriza tus tareas con una interfaz sencilla y eficiente."
+    },
+    {
+      "id": "2",
+      "title": "Crear y mantener hábitos productivos.",
+      "description": "Crea rutinas y sigue tu progreso para alcanzar tus objetivos."
+    },
+    {
+      "id": "3",
+      "title": "Accede a tus listas desde cualquier dispositivo",
+      "description": "Tus tareas sincronizadas en todos tus dispositivos, estés donde estés."
+    },
+    {
+      "id": "4",
+      "title": "Nunca olvides una tarea importante",
+      "description": "Reciba recordatorios a tiempo para estar siempre actualizado."
+    }
+  ],
+  "testimonials": [
+    {
+      "description": "TaskPro ha revolucionado la forma en que gestiono mis proyectos. Me encanta cómo puedo sincronizar mis tareas con mi calendario y recibir notificaciones en tiempo real. ¡No podría trabajar sin esta herramienta ahora!",
+      "person": "María Gómez",
+      "field": "Freelancer"
+    },
+    {
+      "description": "Como líder de equipo, necesitaba una herramienta eficiente y fácil de usar. TaskPro me permite asignar tareas, realizar un seguimiento de ellas y mantener a todos sincronizados. Es esencial para nuestra productividad diaria.",
+      "person": "Carlos Rodríguez",
+      "field": "Gerente de proyecto"
+    },
+    {
+      "description": "Gracias a Task Pro puedo organizar mis estudios de manera más eficiente. La interfaz es muy intuitiva y las notificaciones me mantienen actualizado de todo mi trabajo. ¡Ha sido un salvavidas!",
+      "person": "Ana Sanchez",
+      "field": "Estudiante universitaria"
+    }
+  ]
+}
