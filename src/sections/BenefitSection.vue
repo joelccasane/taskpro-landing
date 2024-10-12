@@ -1,0 +1,7 @@
+<template>
+    <section class="benefits"></section>
+</template>
+
+<script setup lang="ts"></script>
+
+<style scoped lang="scss"></style>
