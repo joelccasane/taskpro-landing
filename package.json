@@ -13,6 +13,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@fontsource-variable/inter": "^5.1.0",
+    "@fontsource-variable/montserrat": "^5.1.0",
     "vue": "^3.5.11"
   },
   "devDependencies": {
@@ -26,6 +28,7 @@
     "eslint-plugin-vue": "^9.28.0",
     "npm-run-all2": "^6.2.3",
     "prettier": "^3.3.3",
+    "sass-embedded": "^1.79.5",
     "typescript": "~5.5.4",
     "vite": "^5.4.8",
     "vue-tsc": "^2.1.6"

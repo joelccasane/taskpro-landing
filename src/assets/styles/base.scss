@@ -1,0 +1,53 @@
+@import url('@fontsource-variable/inter');
+@import url('@fontsource-variable/montserrat');
+
+$primary-color: #161a30;
+$secondary-color: #31304d;
+$neutral-gray: #b6bbc4;
+$background-light: #f0ece5;
+
+$font-text: 'Inter Variable', system-ui, sans-serif;
+$font-tittle: 'Montserrat Variable', system-ui, sans-serif;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  line-height: 1.5;
+  font-family: $font-text;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100dvh;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-tittle;
+}
+
+img,
+svg,
+video {
+  max-width: 100%;
+  height: auto;
+}
