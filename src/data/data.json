@@ -9,23 +9,23 @@
   "benefits": [
     {
       "id": "1",
-      "title": "Organiza tu día fácilmente",
-      "description": "Planifica y prioriza tus tareas con una interfaz sencilla y eficiente."
+      "title": "Organiza tu día con facilidad",
+      "description": "Planifica y prioriza tus tareas con una interfaz sencilla y eficiente"
     },
     {
       "id": "2",
-      "title": "Crear y mantener hábitos productivos.",
-      "description": "Crea rutinas y sigue tu progreso para alcanzar tus objetivos."
+      "title": "Desarrolla hábitos productivos",
+      "description": "Crea rutinas y sigue tu progreso para alcanzar tus objetivos"
     },
     {
       "id": "3",
-      "title": "Accede a tus listas desde cualquier dispositivo",
-      "description": "Tus tareas sincronizadas en todos tus dispositivos, estés donde estés."
+      "title": "Acceso a tus listas en cualquier lugar",
+      "description": "Sincroniza tus tareas en todos tus dispositivos"
     },
     {
       "id": "4",
       "title": "Nunca olvides una tarea importante",
-      "description": "Reciba recordatorios a tiempo para estar siempre actualizado."
+      "description": "Recibe recordatorios oportunos para mantenerte al día"
     }
   ],
   "testimonials": [

@@ -34,8 +34,7 @@ import GPlayBrand from '@/assets/icons/GPlayBrand.vue';
         background-color: $primary-color;
         transition:
             background-color 0.3s ease,
-            box-shadow 0.3s ease,
-            border-color 0.3s ease;
+            box-shadow 0.3s ease;
         &:hover {
             background-color: $secondary-color;
             box-shadow: 0 6px 8px rgba($primary-color, 0.5);
