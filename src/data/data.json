@@ -44,5 +44,12 @@
       "person": "Ana Sanchez",
       "field": "Estudiante universitaria"
     }
-  ]
+  ],
+  "store": {
+    "title": "Organiza tu día y maximiza tu productividad",
+    "description": [
+      "Administre tareas, siga hábitos y alcance sus objetivos más rápido con nuestra aplicación todo en uno de productividad.",
+      "Manténgase organizado con notificaciones inteligentes y seguimiento del progreso en tiempo real."
+    ]
+  }
 }
